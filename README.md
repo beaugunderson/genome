@@ -12,4 +12,4 @@ License
 
 To the extent possible under law, Beau Gunderson has waived all copyright and related or neighboring rights to the genetic data in this repository. This work is published from: United States.
 
-I am releasing the genetic data held in this repository under a Creative Commons Public Domain License (CC0). You can [read more about the CC0 license](http://creativecommons.org/publicdomain/zero/1.0/).
+I am releasing the genetic data held in this repository under a [Creative Commons Public Domain License (CC0)](http://creativecommons.org/publicdomain/zero/1.0/).
