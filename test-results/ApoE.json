@@ -3,5 +3,5 @@
    gene_location: "APOE",
    alternative_names: [],
    result: "3/3",
-	result_notes: "My 23andMe v3 data also contains a 3/3 result."
+   result_notes: "My 23andMe v3 data also contains a 3/3 result."
 }
