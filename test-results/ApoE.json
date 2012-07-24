@@ -1,7 +1,7 @@
 {
-   description: "I was tested for ApoE status due to my maternal grandparents' Alzheimer's.",
-   gene_location: "APOE",
-   alternative_names: [],
-   result: "3/3",
-   result_notes: "My 23andMe v3 data also contains a 3/3 result."
+   "description": "I was tested for ApoE status due to my maternal grandparents' Alzheimer's.",
+   "gene_location": "APOE",
+   "alternative_names": [],
+   "result": "3/3",
+   "result_notes": "My 23andMe v3 data also contains a 3/3 result."
 }
