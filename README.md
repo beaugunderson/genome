@@ -1,9 +1,9 @@
 My genetic data
 ===============
 
-This repo exists to hold all of my genetic data and follows the example set by [msporny](https://github.com/msporny/dna).
+This repository exists to hold all of my genetic data and follows the example set by [msporny](https://github.com/msporny/dna).
 
-It currently contains my v3 data export and exome VCF from [23andMe](http://23andme.com/) and some other genetic test results I've had done (ApoE status, a BRCA2 mutation).
+It currently contains my v3 data export and exome VCF from [23andMe](http://23andme.com/) (and a link to the raw exome data) and some other genetic test results I've had done (ApoE status and a BRCA2 mutation).
 
 I am also enrolled in the [Personal Genome Project](https://my.personalgenomes.org/profile/huF06AD0).
 
